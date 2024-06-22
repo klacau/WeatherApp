@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+    @apply bg-[#5892D7] bg-gradient-to-b from-[#5892D7] to-[#A1D1F2] h-screen;
+}
